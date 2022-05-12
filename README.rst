@@ -1,3 +1,8 @@
+Login and get .scrib session and .scrib expiry cookies and put them in const.py
+Rerun python setup.py install
+
+Install via 
+
 Scribd-Downloader 
 
 **Repository is unsupported**
